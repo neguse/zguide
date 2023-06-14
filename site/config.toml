@@ -38,7 +38,7 @@ unsafe = true
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/booksbyus/zguide'
+  BookRepo = 'https://github.com/neguse/zguide'
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
